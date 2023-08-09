@@ -12,5 +12,10 @@ Industry Pyramid
 
 ![image](https://github.com/junxian428/AI_Automation/assets/58724748/2df7bac8-e03b-47fd-b781-814bb6c97395)
 
+Robot
+
+![Untitled Diagram drawio (12)](https://github.com/junxian428/AI_Automation/assets/58724748/85332ca2-4bee-4499-9791-0b1965e2e3f0)
+
+
 
 
